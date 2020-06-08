@@ -14,7 +14,7 @@ html {
 @media (max-width: 767px) {
   html {
     background-color: #070b28;
-    background-image: url("/images/logo-bg.svg");
+    background-image: url("/images/dark.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
