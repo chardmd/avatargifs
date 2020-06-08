@@ -108,7 +108,6 @@ let make = () => {
   };
 
   let exportImage = () => {
-    setShowModal(_ => true);
     exportImageAsync();
   };
 
