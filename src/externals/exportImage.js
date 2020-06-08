@@ -8,7 +8,7 @@ export default async () => {
   const dataUrl = canvas.toDataURL()
 
   const link = document.createElement('a')
-  link.download = 'avatar.gif'
+  link.download = 'avatar.png'
   link.href = dataUrl
 
   document.body.appendChild(link)
