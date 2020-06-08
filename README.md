@@ -1,10 +1,8 @@
 # Free Avatar Generator
 
-![Avatar Generator](screenshot.png)
-
 ## Contributing
 
-Personas is built on GatsbyJS. Setup instructions are straight forward:
+AvatarGifs is built on GatsbyJS. Setup instructions are straight forward:
 
 - `npm install -g bs-platform` installs reasonml
 - `yarn && yarn develop` starts the gatsby server

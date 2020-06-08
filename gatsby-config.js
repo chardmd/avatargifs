@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'AvatarGifs | Free avatar generator.',
+    title: 'AvatarGifs | Free avatar creator online.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'persona-avatar-generator-draftbit',
-        short_name: 'avatar-generator',
+        name: 'avatargifs',
+        short_name: 'avatargifs',
         start_url: '/',
         background_color: '#5a45ff',
         theme_color: '#5a45ff',

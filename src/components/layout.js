@@ -31,7 +31,7 @@ const Layout = ({ children }) => (
           meta={[
             {
               name: 'description',
-              content: 'Free avatar generator.',
+              content: 'Free avatar creator online',
             },
             {
               name: 'twitter:card',
@@ -51,11 +51,12 @@ const Layout = ({ children }) => (
             },
             {
               name: 'twitter:description',
-              content: 'Free avatar generator.',
+              content: 'Free avatar creator online',
             },
             {
               name: 'keywords',
-              content: 'Avatar, Avatar Generator, Free, Avatars',
+              content:
+                'Avatar, Avatar Generator, Free, Avatars, Cartoon Avatar',
             },
             { property: 'og:type', content: 'website' },
             {
@@ -66,7 +67,7 @@ const Layout = ({ children }) => (
             { property: 'og:url', content: 'https://avatargifs.com' },
             {
               property: 'og:description',
-              content: 'Free avatar generator.',
+              content: 'Free avatar creator online',
             },
           ]}
         >

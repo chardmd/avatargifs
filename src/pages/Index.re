@@ -81,7 +81,7 @@ let make = () => {
     );
 
   let (styles, setStyles) = React.useState(_ => defaultStyles);
-  let (showModal, setShowModal) = React.useState(_ => false);
+  let (setShowModal) = React.useState(_ => false);
 
   let onChange = (key: Types.key, value) => {
     setStyles(styles => {

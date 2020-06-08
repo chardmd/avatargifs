@@ -80,12 +80,12 @@ let make =
       <div className="Layout-left">
         <h1 className="Text-title"> {React.string("AvatarGifs")} </h1>
         <span className="Text-subtitle">
-          {React.string("Avatar Generator")}
+          {React.string("Avatar Maker Online")}
         </span>
       </div>
       <div className="Layout-right">
         <h2 className="Text-description">
-          {React.string("A free avatar generator.")}
+          {React.string("Make your own free cartoon avatar online")}
         </h2>
       </div>
     </header>
