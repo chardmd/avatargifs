@@ -39,7 +39,7 @@ const Layout = ({ children }) => (
             },
             {
               name: 'twitter:site',
-              content: '@draftbit',
+              content: '@avatargifs',
             },
             {
               name: 'twitter:title',

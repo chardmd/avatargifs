@@ -1,8 +1,8 @@
 [@react.component]
 let make = () => {
   <a
-    href="https://draftbit.com"
-    title="Robust native front-end apps with usable code by Draftbit">
+    href="https://avatargifs.com"
+    title="Free avatar gifs">
     <Icon name="wordmark" />
   </a>;
 };
